@@ -1,3 +1,4 @@
+""" prac 10 flask project"""
 from flask import Flask
 
 app = Flask(__name__)
